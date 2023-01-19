@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(247, 205, 212);
+}
+.header_nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 325px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    text-decoration: underline;
+
+    
+}
+.header_nav2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    font-size: 25px;
+    background-color: rgb(209, 36, 36);
+    
+}
+.header_nav2 a{
+    color: yellow;
+    background-color: rgb(226, 33, 33)
+    ;
+}
+.header_nav2 a:hover{
+    color: black;
+}
+.main_nav{
+    display: flex;
+    gap: 200px;
+}
+.hero:hover{
+    
+    color:magenta;
+}
+.events{
+    padding-top: 65px;
+}
+.events a:hover{
+    color: yellow;
+    
+}
+.event_apd{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    padding-top: 15px;
+}
+.event_fictionary{
+    font-family: cursive; font-weight: 400; font-size: 25px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p.king:hover{
+    color: red;
+}
+.contact_dbs{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    background-color: black;
+    
+}
+.contact_dbs a{
+    color: white;
+    background-color: black;
+
+}
+.contact_dbs a:hover{
+    color: yellow;
+}
+.contact_creator a{
+    text-align: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 127px;
+    padding-left: 650px;
+    color: yellow;
+    background-color: red;
+    
+}
+.contact_creator a:hover{
+    color: pink;
+}
+.contact_creator{
+    background-color: red;
+}
